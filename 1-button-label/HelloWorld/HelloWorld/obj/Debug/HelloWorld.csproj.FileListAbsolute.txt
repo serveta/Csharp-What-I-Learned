@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\1-button-label\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
