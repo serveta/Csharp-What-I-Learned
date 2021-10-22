@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\bin\Debug\2-progresBar-bgWorker.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\bin\Debug\2-progresBar-bgWorker.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\bin\Debug\2-progresBar-bgWorker.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\2-progresBar-bgWorker.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\_2_progresBar_bgWorker.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\_2_progresBar_bgWorker.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\2-progresBar-bgWorker.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\2-progresBar-bgWorker.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\2-progresBar-bgWorker\2-progresBar-bgWorker\obj\Debug\2-progresBar-bgWorker.pdb
