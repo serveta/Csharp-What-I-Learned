@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\bin\Debug\3-textBox-checkBox-radioButton.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\bin\Debug\3-textBox-checkBox-radioButton.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\bin\Debug\3-textBox-checkBox-radioButton.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\3-textBox-checkBox-radioButton.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\_3_textBox_checkBox_radioButton.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\_3_textBox_checkBox_radioButton.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\3-textBox-checkBox-radioButton.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\3-textBox-checkBox-radioButton.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\3-textBox-checkBox-radioButton\3-textBox-checkBox-radioButton\obj\Debug\3-textBox-checkBox-radioButton.pdb
