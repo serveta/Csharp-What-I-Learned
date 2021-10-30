@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\bin\Debug\4-listWiew-add-remove.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\4-listWiew-add-remove.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\_4_listWiew_add_remove.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\_4_listWiew_add_remove.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\4-listWiew-add-remove.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\bin\Debug\4-listWiew-add-remove.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\bin\Debug\4-listWiew-add-remove.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\4-listWiew-add-remove.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\4-listWiew-add-remove\4-listWiew-add-remove\obj\Debug\4-listWiew-add-remove.pdb
