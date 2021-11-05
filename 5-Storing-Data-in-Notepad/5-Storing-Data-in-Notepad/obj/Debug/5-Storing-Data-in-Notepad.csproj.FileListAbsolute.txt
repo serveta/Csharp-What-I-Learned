@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\bin\Debug\5-Storing-Data-in-Notepad.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\bin\Debug\5-Storing-Data-in-Notepad.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\bin\Debug\5-Storing-Data-in-Notepad.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\5-Storing-Data-in-Notepad.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\_5_Storing_Data_in_Notepad.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\_5_Storing_Data_in_Notepad.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\5-Storing-Data-in-Notepad.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\5-Storing-Data-in-Notepad.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\5-Storing-Data-in-Notepad\5-Storing-Data-in-Notepad\obj\Debug\5-Storing-Data-in-Notepad.pdb
