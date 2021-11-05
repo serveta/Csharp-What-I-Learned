@@ -1,6 +1,6 @@
 # Storing Data in Notepad
 
-- An application that records names and phone numbers.
+- An application that save names and phone numbers.
 - I'm using a notepad instead of a database.
 - When you click the add button the app is ownself going to create a new .txt notepad. (in bin>Debug>phoneBook.txt)
 
