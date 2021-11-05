@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\bin\Debug\6-A-Simple-Grocery-Checkout-App.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\bin\Debug\6-A-Simple-Grocery-Checkout-App.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\bin\Debug\6-A-Simple-Grocery-Checkout-App.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\6-A-Simple-Grocery-Checkout-App.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\_6_A_Simple_Grocery_Checkout_App.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\_6_A_Simple_Grocery_Checkout_App.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\6-A-Simple-Grocery-Checkout-App.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\6-A-Simple-Grocery-Checkout-App.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\6-A-Simple-Grocery-Checkout-App\6-A-Simple-Grocery-Checkout-App\obj\Debug\6-A-Simple-Grocery-Checkout-App.pdb

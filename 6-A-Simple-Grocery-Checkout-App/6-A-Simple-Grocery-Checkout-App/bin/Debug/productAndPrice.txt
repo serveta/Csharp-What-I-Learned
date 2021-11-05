@@ -1,0 +1,5 @@
+Pineapple:5
+Cucumber:6
+Banana:2
+Apple:7
+Grape:4
