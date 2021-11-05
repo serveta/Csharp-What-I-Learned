@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\bin\Debug\7-Data-from-txt-file-Add-Edit-Remove.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\bin\Debug\7-Data-from-txt-file-Add-Edit-Remove.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\bin\Debug\7-Data-from-txt-file-Add-Edit-Remove.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\7-Data-from-txt-file-Add-Edit-Remove.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\_7_Data_from_txt_file_Add_Edit_Remove.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\_7_Data_from_txt_file_Add_Edit_Remove.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\7-Data-from-txt-file-Add-Edit-Remove.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\7-Data-from-txt-file-Add-Edit-Remove.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\7-Data-from-txt-file-Add-Edit-Remove\7-Data-from-txt-file-Add-Edit-Remove\obj\Debug\7-Data-from-txt-file-Add-Edit-Remove.pdb
