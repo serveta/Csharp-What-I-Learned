@@ -1,0 +1,10 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\bin\Debug\8-relation-between-forms.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\bin\Debug\8-relation-between-forms.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\bin\Debug\8-relation-between-forms.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\8-relation-between-forms.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\_8_relation_between_forms.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\_8_relation_between_forms.Form2.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\_8_relation_between_forms.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\8-relation-between-forms.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\8-relation-between-forms.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\8-relation-between-forms\8-relation-between-forms\obj\Debug\8-relation-between-forms.pdb
