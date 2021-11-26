@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\bin\Debug\9-midterm-exam.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\bin\Debug\9-midterm-exam.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\bin\Debug\9-midterm-exam.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\9-midterm-exam.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\_9_midterm_exam.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\_9_midterm_exam.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\9-midterm-exam.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\9-midterm-exam.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\9-midterm-exam\9-midterm-exam\obj\Debug\9-midterm-exam.pdb
