@@ -1,0 +1,9 @@
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\bin\Debug\10-final-exam.exe.config
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\bin\Debug\10-final-exam.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\bin\Debug\10-final-exam.pdb
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\10-final-exam.csprojResolveAssemblyReference.cache
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\_10_final_exam.Form1.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\_10_final_exam.Properties.Resources.resources
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\10-final-exam.csproj.GenerateResource.Cache
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\10-final-exam.exe
+C:\Users\EDA PC\Desktop\gitHub-C#\10-final-exam\10-final-exam\10-final-exam\obj\Debug\10-final-exam.pdb
